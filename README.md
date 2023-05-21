@@ -11,7 +11,7 @@
     • Server : Naver Cloud Platform_tensorflow server <br>
     • IDE : VScode, Jupyter, Colab <br>
     • Library : Tensorflow, sckit-learn, keras, numpy, pandas, matplotlib, seaborn, XGBoost, CatBoost, LightBGM <br>
-<br><br>
+<br>
 ▶︎ 프로젝트 구조
 <br>
     • 데이터 수집 → 데이터 전처리 → EDA ( Exploratory Data Analysis) → 데이터 모델링 → 최적화 모델링 채택 → 분석 결과 확인
